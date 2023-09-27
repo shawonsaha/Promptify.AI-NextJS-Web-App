@@ -6,7 +6,7 @@ import Provider from "@components/Provider";
 
 export const metadata = {
   title: "Promptify.AI",
-  description: "Share & Discover AI Prompts",
+  description: "Share & Discover AI Prompts ",
 };
 
 const RootLayout = ({ children }) => {
